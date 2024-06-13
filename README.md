@@ -24,6 +24,7 @@ This project is about a Solar Tracking Dual Axis Controller using an Arduino Uno
 - Necessary Arduino Libraries (Servo.h, etc.)
 
 ## Installation
+![WhatsApp Image 2024-06-13 at 19 21 36_86967b2f](https://github.com/Omarkh2021/solar-tracking/assets/90703502/9d12783f-9c84-4f56-a799-0b3728a0b442)
 
 1. Clone this repository to your local machine.
 2. Open the Arduino IDE and load the provided `.ino` file.
